@@ -1,0 +1,73 @@
+{
+  "name": "small",
+  "garages": [
+    {
+      "x": 250,
+      "y": 250,
+      "name": "MainGarage"
+    }
+  ],
+  "depots": [
+    {
+      "x": 250,
+      "y": 200,
+      "stock": {
+        "0": 10000,
+        "1": 15000
+      },
+      "name": "CentralDepot"
+    }
+  ],
+  "stations": [
+    {
+      "x": 150,
+      "y": 100,
+      "demand": {
+        "0": 1344
+      },
+      "name": "Station1"
+    },
+    {
+      "x": 400,
+      "y": 150,
+      "demand": {
+        "1": 4278
+      },
+      "name": "Station2"
+    },
+    {
+      "x": 350,
+      "y": 350,
+      "demand": {
+        "1": 2350
+      },
+      "name": "Station3"
+    },
+    {
+      "x": 100,
+      "y": 300,
+      "demand": {
+        "1": 2319
+      },
+      "name": "Station4"
+    }
+  ],
+  "trucks": [
+    {
+      "capacity": 10000,
+      "garage_id": 1,
+      "initial_product": 0
+    },
+    {
+      "capacity": 10000,
+      "garage_id": 1,
+      "initial_product": 1
+    }
+  ],
+  "changeover_costs": {
+    "0,0": 0.0,
+    "0,1": 15.0,
+    "1,0": 15.0,
+    "1,1": 0.0
+  }
+}
