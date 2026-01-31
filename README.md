@@ -246,6 +246,10 @@ Vérifier :
 
 Projet académique - M1 IFRI (2026)
 
-## 👤 Auteur
+## 👤 Auteurs
 
-Merveille ANATO- 2026
+Merveille ANATO
+ADJE Josias
+BEHETON Harold
+HONVO Charbel
+- 2026
