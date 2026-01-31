@@ -244,8 +244,8 @@ Vérifier :
 
 ## 📝 Licence
 
-Projet académique - Université (2026)
+Projet académique - M1 IFRI (2026)
 
 ## 👤 Auteur
 
-Modifié et intégré avec OR-Tools - 2026
+Merveille ANATO- 2026
