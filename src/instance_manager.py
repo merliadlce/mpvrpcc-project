@@ -9,7 +9,7 @@ import json
 import os
 from typing import Dict, List
 # Import du solveur OR-Tools
-from mpvrpcc_ortools_new import MPVRPCCInstance
+from src.mpvrpcc_ortools_solver import MPVRPCCInstance
 
 class InstanceManager:
     """Gestionnaire dédié exclusivement à l'importation et l'exportation d'instances"""
