@@ -7,7 +7,7 @@ Compatible avec les formats DAT et JSON
 import os
 import sys
 import time
-from src.mpvrpcc_ortools_solver import MPVRPCCORToolsSolver, SolutionFormatter, MPVRPCCInstance
+from mpvrpcc_ortools_solver import MPVRPCCORToolsSolver, SolutionFormatter, MPVRPCCInstance
 from instance_manager import InstanceManager
 
 
